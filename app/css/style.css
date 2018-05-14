@@ -278,10 +278,10 @@ body {
 .list {
   display: inline-block;
 }
-.bitcoin-img {
+.build-img {
   display: inline-block;
-  vertical-align: baseline;
   margin-left: 16em;
+  vertical-align: bottom;
 }
 
 .center {
@@ -704,7 +704,7 @@ sup {
     font-size: 1.05vw;
   }
 
-  .bitcoin-img {
+  .build-img {
     width: 55%;
     margin-left: unset;
   }
@@ -773,7 +773,7 @@ sup {
     width: 95%;
   }*/
   
-  
+
 
   .slider2-width h2 {
     font-size: 1.9vw;
@@ -932,7 +932,7 @@ sup {
   .list div {
 
   }
-  .bitcoin-img {
+  .build-img {
     width: 60%;
     margin-left: unset;
   }
@@ -1226,7 +1226,7 @@ sup {
   .list div {
 
   }
-  .bitcoin-img {
+  .build-img {
     width: 60%;
     margin-left: unset;
   }
@@ -1625,7 +1625,7 @@ sup {
     font-size: 4vw;
   }
 
-  .bitcoin-img {
+  .build-img {
     display: none;
   }
   .build-today {
