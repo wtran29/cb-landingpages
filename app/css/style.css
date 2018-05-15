@@ -133,10 +133,6 @@ body {
   display: inline-block;
 }
 
-/*.block {
-  margin-left: 79px;
-  margin-bottom: 10px;
-}*/
 
 .float-left-vr {
   position: absolute;
@@ -701,11 +697,6 @@ sup {
   }
 
 
-  /*h2 {
-    width: 95%!important;
-    font-size: 2vw!important;
-
-  }*/
 
   .list ul {
     font-size: 1.05vw;
@@ -716,10 +707,6 @@ sup {
     margin-left: unset;
   }
   
-  .quote-size img {
-    /*width: 50%!important;*/
-  }
-
   
 
   .position {
@@ -922,11 +909,7 @@ sup {
     font-size: 2vw;
     width: 80vw;
   }
-  /*h2 {
-    width: 95%!important;
-    font-size: 2.5vw!important;
-
-  }*/
+  
 
   .list ul {
     font-size: 2vw;
@@ -950,9 +933,7 @@ sup {
   .dist-chart {
     width: 95%;
   }
-  .quote-size img {
-    /*width: 50%!important;*/
-  }
+  
   .pricing-card {
     width: 218px;
     height: 301px;
@@ -1035,10 +1016,7 @@ sup {
   #slider2 .carousel-inner {
     padding: unset;
   }
-  /*.slider2-flex {
-    display: flex;
-    flex-direction: column-reverse;
-  }*/
+  
 
   .slider2-pic {
     width: 56%;
@@ -1262,9 +1240,7 @@ sup {
   .dist-chart {
     width: 95%;
   }
-  .quote-size img {
-    /*width: 50%!important;*/
-  }
+  
   .pricing-card {
     width: 218px;
     height: 301px;
@@ -1621,25 +1597,11 @@ sup {
   }
   
 
-  .line-two {
-    margin-top: 37px;
-  }
-
-  .line-three {
-    margin-top: 19px;
-  }
+  
   .rect-three {
     position: relative;
     z-index: 1;
   }
- 
-  .line-four {
-    border-top: 2px solid #282828;
-    width: 147px;
-    margin-left: 95px;
-    margin-top: 37px;
-  }
-
 
   .display {
     display: unset!important;
@@ -1763,13 +1725,6 @@ sup {
   }
 
   
-  /*.s2-desktop{
-    display: none!important;
-  }
-  .s2-mobile {
-    display: unset;
-  }
-*/
   .dist-chart {
     width: 100%;
   }
