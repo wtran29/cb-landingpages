@@ -10,6 +10,9 @@ body {
   background-color: #fdba2e!important;
 }
 
+.test {
+  width: 0;
+}
 .cloud {
   background: url('../images/cloud_lp_2.png');
   position: relative;
@@ -1723,8 +1726,6 @@ sup {
   .slider-spacing {
     margin: unset;
   }
-
-  
   .dist-chart {
     width: 100%;
   }
@@ -1734,8 +1735,6 @@ sup {
   }
   .quote-align {
     height: unset;
-    
-    
   }
   
   .position {
