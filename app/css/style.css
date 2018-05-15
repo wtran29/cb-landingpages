@@ -250,10 +250,9 @@ body {
 .text-thin {
   font-family: CocoGothic-Light; 
   font-size: 30px;
+  width: 36em;
 }
-/*h2 {
-  font-size: 30px!important;
-}*/
+
 .list ul {
   color: #fca62f;
 }
@@ -597,6 +596,10 @@ sup {
   display: none;
 }
 
+.slider2-width h2 {
+    width: 13em;
+  }
+
 @media only screen and (min-width: 1025px) and (max-width: 1439px){
   
   
@@ -694,7 +697,7 @@ sup {
   }
   .text-thin {
     font-size: 1.9vw;
-    width: 15em;
+    width: 36em;
   }
 
 
